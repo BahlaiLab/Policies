@@ -32,4 +32,5 @@ Code used or developed in support of the project must be:
 The website provides a front-end for people navigating our projects by research area, and will likely be viewed by less technical users. Help them understand the components of your work by:
 - [ ] Linking project repo from website
 - [ ] Give a plain language project description
+- [ ] Include contact information for authors, and if data is proprietary, for data creators
 - [ ] Make it pretty by including a snazzy graphic as a thumbnail
