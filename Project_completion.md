@@ -6,10 +6,12 @@ In the Bahlai Lab, we strive to make our work as reproducible and as transparent
 ## General project documentation
 
 - [ ] Project components are all hosted in a public repository on Github
+- [ ] Declare a license in the README so people know how they can use your work (I'm partial to CC-BY 4.0)
 - [ ] README includes project abstract or description
 - [ ] README includes file navigation within repo, description of file contents
 - [ ] README includes links to papers, preprints
 - [ ] Include a folder containing slides/posters from presentations on this project if applicable
+
 
 
 ## Data
