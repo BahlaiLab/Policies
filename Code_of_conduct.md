@@ -40,4 +40,4 @@ Lab members are welcome to work flexibly for any reason. All lab members will ha
 
 **If you experience any challenges related to flexible working within the lab** please contact [Christie Bahlai](https://github.com/cbahlai). All communication will be treated as confidential.
 
-> The material in this code of conduct is partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. Bahlai Lab Code of conduct is licensed under CC BY 4.0 by Christie Bahlai
+> The material in this code of conduct is partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. Bahlai Lab Code of conduct is licensed under CC BY 4.0 by Dr. Christie Bahlai
