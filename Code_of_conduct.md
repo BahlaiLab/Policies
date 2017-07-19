@@ -1,6 +1,8 @@
 # Code of Conduct
 
-Science is hard, and the work of making sure science isn't harder than it needs to be because of cultural problems is on all of us. We value the participation of every member of our community and want to ensure an that every lab member and collaborator has a positive, educational experience unhindered by unneccesary challenges. Accordingly, everyone who participates in any Bahlai Lab project is expected to show respect and courtesy to other community members at all time.
+Science is hard, and the work of making sure science isn't harder than it needs to be is on all of us. We create our culture, and in the Bahlai lab, our culture is inclusive.
+
+We value the participation of every member of our community and want to ensure an that every lab member and collaborator has a positive, educational experience unhindered by unneccesary challenges. Accordingly, everyone who participates in any Bahlai Lab project is expected to show respect and courtesy to other community members at all time.
 
 Christie Bahlai, as head of the Bahlai Lab, and all lab members, are dedicated to a ***harassment-free experience for everyone.*** Discrimination or harassment based on racial or ethnic background, citizenship status, religion (or lack thereof), political affiliation, gender identity/expression, sexual orientation, dis/ability status, appearance or body size will not be tolerated.  **We do not tolerate harassment by and/or of members of our community in any form**.
 
