@@ -10,16 +10,15 @@ In the Bahlai Lab, we strive to make our work as reproducible and as transparent
 - [ ] README includes project abstract or description
 - [ ] README includes file navigation within repo, description of file contents
 - [ ] README includes links to papers, preprints
-- [ ] Include a folder containing slides/posters from presentations on this project if applicable
-
-
+- [ ] README Includes contact information for authors, and if data is proprietary, for data creators
+- [ ] Make the readme pretty by including a snazzy graphic, if applicable
+- [ ] Include a folder in the repo containing slides/posters from presentations on this project if applicable
 
 ## Data
 Data used in support of the project must be:
 - [ ]  Saved in an appropriate, non-proprietary format with accompanying metadata
 - [ ]  In a public archive, or, if data is proprietary, a 'snapshot' version of the data used in the project must be saved in a private repository accessible to lab members
 - [ ]  Linked  and briefly described in the project README
-
 
 ## Code
 Code used or developed in support of the project must be:
@@ -28,9 +27,4 @@ Code used or developed in support of the project must be:
 - [ ] Described in the README- what does each file do, what language was used, etc
 
 
-## Website
-The website provides a front-end for people navigating our projects by research area, and will likely be viewed by less technical users. Help them understand the components of your work by:
-- [ ] Linking project repo from website
-- [ ] Give a plain language project description
-- [ ] Include contact information for authors, and if data is proprietary, for data creators
-- [ ] Make it pretty by including a snazzy graphic as a thumbnail
+
