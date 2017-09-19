@@ -15,7 +15,7 @@ First and foremost, the Bahlai Lab is an [open science](https://en.wikipedia.org
 
 * Acknowledge contributions to our work. Provide [territorial acknowledgements](http://www.cbc.ca/news/canada/toronto/territorial-acknowledgements-indigenous-1.4175136) for work involving land use. Cite the ideas of others.
 
-* Act as ambssadors of open science, and science in general, to the broader scientific community and the world. Help people see what we do, but respect the constraints others must work under.
+* Act as ambssadors of open science, and science in general, to the broader scientific community and the world. Help people see what we do, but *respect the constraints others must work under.*
 
 ## Mentoring philosopy    
 ## Grad student expectations
