@@ -13,7 +13,7 @@ First and foremost, the Bahlai Lab is an [open science](https://en.wikipedia.org
 
 * Seek out expertise from conventional and unconventional stakeholders in our work. Invite comment and participation. Welcome feedback.
 
-* Acknowledge contributions to our work. Provide [territorial acknowledgements](http://www.cbc.ca/news/canada/toronto/territorial-acknowledgements-indigenous-1.4175136). Cite the ideas of others. Don't pretend you work in a vacuum.
+* Acknowledge contributions to our work. Provide [territorial acknowledgements](http://www.cbc.ca/news/canada/toronto/territorial-acknowledgements-indigenous-1.4175136). Cite the ideas of others. Don't pretend we work in a vacuum.
 
 * Act as ambassadors of open science, and science in general, to the broader scientific community and the world. Help people see what we do, but *respect the constraints others must work under.*
 
