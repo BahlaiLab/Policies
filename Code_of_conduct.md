@@ -4,7 +4,7 @@ Science is hard, and the work of making sure science isn't harder than it needs 
 
 We value the participation of every member of our community and want to ensure an that every lab member and collaborator has a positive, educational experience unhindered by unneccesary challenges caused by non-inclusive behavior. Accordingly, everyone who participates in any Bahlai Lab project is expected to show respect and courtesy to other community members at all time.
 
-Christie Bahlai, as head of the Bahlai Lab, and all lab members, are dedicated to a ***harassment and discrimination-free experience for everyone.*** Discrimination or harassment based on racial or ethnic background, citizenship status, religion (or lack thereof), political affiliation, gender identity/expression, sexual orientation, dis/ability status, appearance or body size will not be tolerated.  **We do not tolerate harassment by and/or of members of our community in any form**.
+Christie Bahlai, as head of the Bahlai Lab, and all lab members, are dedicated to a ***harassment and discrimination-free experience for everyone.*** Discrimination or harassment based on racial or ethnic background, citizenship status, religion (or lack thereof), political affiliation, gender identity/expression, sexual orientation, dis/ability status, appearance or body size will not be tolerated.  **We do not tolerate harassment or discrimination by and/or of members of our community in any form**. 
 
 We are particularly motivated to support new and/or anxious collaborators, people who are looking to learn and develop their skills, and anyone who has experienced discrimination in the past. 
 
@@ -18,11 +18,13 @@ To make clear what is expected, we ask all members of the community to conform t
 
 * Please make an effort to make an inclusive environment for everyone. Give everyone a chance to talk and an opportunity to contribute.
 
+* Watch out for [microaggressions](https://en.wikipedia.org/wiki/Microaggression). Be aware that your actions can be hurtful to others or contribute to a negative environment even if you had no intent of harm. Listen. Offer a genuine apology. Commit to learning and doing better.
+
 * A SPECIAL NOTE: Your work in this lab will be publicly available and recorded permanently on github. Please conduct yourself accordingly.
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
+Unnaceptable behavior includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
 
-***Participants asked to stop any harassing behavior are expected to comply immediately.***
+***Participants asked to stop any harassing or discriminatory behavior are expected to comply immediately.***
 
 Members of the community who violate these rules - no matter how much they have contributed to the Bahlai lab, or how specialised their skill set - will be approached by Christie Bahlai. If inappropriate behaviour persists after a discussion with Christie, the issue will be escalated according to procedures laid out by the relevant entities in Kent State's [Division of Diversity, Equity & Inclusion](https://www.kent.edu/diversity/support-services-students-staff-and-faculty)
 
