@@ -7,7 +7,7 @@ First and foremost, the Bahlai Lab is an [open science](https://en.wikipedia.org
 
 * Respect privacy and confidentiality in cases where data or research products contain sensitive information. Do no harm. 
 
-* Produce and share reproducible, re-usable data manipulation and analysis code, so people can understand our assumptions and workflows, and so future scientists can learn from our efforts without dupicating them.
+* Produce and share reproducible, re-usable data manipulation and analysis code, so people can understand our assumptions and workflows, and so future scientists can learn from our efforts without duplicating them.
 
 * Publish final manuscripts AND intermediate research products in the most accessible formats available to us. 
 
