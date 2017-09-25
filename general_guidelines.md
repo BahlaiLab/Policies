@@ -24,4 +24,10 @@ I also believe that the mentor-mentee relationship is reciprocal-you have experi
 
 I believe that science is better when it's diverse and inclusive, and that means removing barriers and meeting people where they are, whenever possible. If you want to work in the Bahlai Lab, or are currently working here and facing a barrier affecting your ability to do work and contribute to your fullest extent, please let me know (in as specific or nonspecific terms as you are comfortable) so we can work together with campus resources and build necessary accomodations. 
 ## Grad student expectations
-The expectations of graduate students enrolled in our MS and PhD programs in the [Kent State University Department of Biological Sciences](https://www.kent.edu/biology) are outlined in our [graduate student handbook](https://du1ux2871uqvu.cloudfront.net/sites/default/files/file/BSCI%20Grad%20Handbook%202017.pdf). 
+The expectations of graduate students enrolled in our MS and PhD programs in the [Kent State University Department of Biological Sciences](https://www.kent.edu/biology) are outlined in our [graduate student handbook](https://du1ux2871uqvu.cloudfront.net/sites/default/files/file/BSCI%20Grad%20Handbook%202017.pdf). The back of this guide contains links to specific forms, including a checklist of degree completion requirements for both the MS and PhD programs. We will use this as a template for your individual expectations within the lab.
+
+I pledge to you that I will consider your goals and path when establishing your expectations for your program. I will meet with each graduate student on a regular basis to discuss goals, directions and progress. Early in your program, we will establish a private repository where we will outline our shared expectaions and goals for your graduate program, including timelines and deliverables. This repository can also be used to store documents and other relevant paperwork for your program. There will be core elements for all students, but what I'm really hoping to get here is your personal definition of success, and a defined path for getting there. This may evolve over the course of your program, but the idea is to keep you working with intention, while providing me with a clear outline of how I can best support your efforts.
+
+
+
+
