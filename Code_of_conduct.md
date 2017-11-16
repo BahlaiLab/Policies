@@ -22,7 +22,7 @@ To make clear what is expected, we ask all members of the community to conform t
 
 * A SPECIAL NOTE: Your work in this lab will be publicly available and recorded permanently on github. Please conduct yourself accordingly.
 
-Unnaceptable behavior includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
+Unacceptable behavior includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
 
 ***Participants asked to stop any harassing or discriminatory behavior are expected to comply immediately.***
 
