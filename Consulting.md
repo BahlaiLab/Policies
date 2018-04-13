@@ -7,7 +7,7 @@ In general, simple problems that can be handled in a single meeting ("Am I using
 For problems where I am required to make a substantial intellectual contribution to the work (i.e. writing custom analysis code, data manipulation and quality control, teaching you a new method, or substantial input in experimental design or interpretation), I will generally require some form of credit beyond a simple acknowledgement. This form of credit is negotiable and depends on the exact circumstance, but can include (and is not necessarily limited to):
 - For graduate students, an invitation to serve on your thesis/dissertation committee
 - Authorship on manuscripts or other research products resulting from work where I have made these contributions
-- For external requests, service contracts with the Bahlai Lab via Kent State University Division of Research and Sponsored Programs
+- For external requests, service contracts can be negotiated with the Bahlai Lab via Kent State University Division of Research and Sponsored Programs
 
 If you would like to book a meeting with me, you can use this interface which automatically places the meeting in my schedule:
 
