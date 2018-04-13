@@ -4,7 +4,7 @@ I'm happy to help members of my community work through their statistical, data a
 
 In general, simple problems that can be handled in a single meeting ("Am I using the appropriate statistic here?" "Can you help me find the bug in my code?" "What is the best tutorial to use to do [x] with my data?"), I expect no compensation beyond an acknowledgement.
 
-For problems where I am required to make a substantial intellectual contribution to the work (i.e. writing custom analysis code, data manipulation and quality control, or substantial input in experimental design or interpretation), I will generally require some form of credit beyond a simple acknowledgement. This form of credit can include (but not necessarily be limited to):
+For problems where I am required to make a substantial intellectual contribution to the work (i.e. writing custom analysis code, data manipulation and quality control, teaching you a new method, or substantial input in experimental design or interpretation), I will generally require some form of credit beyond a simple acknowledgement. This form of credit can include (but not necessarily be limited to):
 - For graduate students, an invitation to serve on your thesis/dissertation committee
 - Authorship on manuscripts or other research products resulting from work where I have made these contributions
 - For external requests, service contracts with the Bahlai Lab via Kent State University Division of Research and Sponsored Programs
