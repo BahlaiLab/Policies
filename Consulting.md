@@ -1,6 +1,6 @@
 ## Consultation and meeting policies
 
-I'm happy to help members of my community work through their statistical, data and coding problems! That said, I get *a lot* of requests for help, and so I've adopted a system to help prevent over-booking, to manage how my consultation in this area are credited in my effort reporting and personal accomplishments, and to protect a bit of my time for my own research. 
+I'm happy to help members of my community work through their statistical, data and coding problems! That said, I get *a lot* of requests for help, and so I've adopted a system to help prevent over-booking, to manage how my work in this area are credited in my effort reporting and personal accomplishments, and to protect a bit of my time for my own research. 
 
 In general, simple problems that can be handled in a single meeting ("Am I using the appropriate statistic here?" "Can you help me find the bug in my code?" "What is the best tutorial to use to do [x] with my data?"), I expect no compensation beyond an acknowledgement.
 
