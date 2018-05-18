@@ -25,6 +25,6 @@ Code used or developed in support of the project must be:
 - [ ] Well commented and complete
 - [ ] On Github, in the public project repository
 - [ ] Described in the README- what does each file do, what language was used, etc
-- [ ] Tested! can at least one (but more is better) make your analysis go on a differnt computer?
+- [ ] Tested! can at least one other person (but more is better) make your analysis go on a different computer?
 
 
