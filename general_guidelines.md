@@ -17,16 +17,13 @@ First and foremost, the Bahlai Lab is an [open science](https://en.wikipedia.org
 
 * Act as ambassadors of open science, and science in general, to the broader scientific community and the world. Help people see what we do, but *respect the constraints others must work under.*
 
-![The Open Science umbrella, as cited by Danielle Robinson](https://portraitofthescientist.files.wordpress.com/2017/06/wright_robinson_dlf_2017_june_14-pptx.png?w=320)
-
-A really useful metaphor for the open science universe is described by my friend and colleague [Danielle Robinson](https://twitter.com/daniellecrobins) in [this post](https://portraitofthescientist.wordpress.com/2017/07/03/so-what-do-you-actually-do/). 
-
 ## Mentoring philosophy  
 I believe that the role of a mentor is that of a guide and a support for you as you work towards your goals. I strive to maintain an open dialogue with my mentees about their goals and directions, and provide direction, support, and resources wherever I can, and connect you to people that can help, when I can't.  I believe the single most important product of science is human capital- people who can go forward in the world, work hard, and make changes to make lives better. I am deeply invested in helping you develop as a colleague, a scientist, and a citizen of the world. I mainly ask that you bring a willingness to work hard and think hard, be open to changing and developing yourself, and a commitment to science, truth, and kindness- I will endeavour to bring the same things to our relationship. My door is open, even if it's physically closed sometimes (it gets noisy in the hall!)
 
 I also believe that the mentor-mentee relationship is reciprocal-you have experiences, skills and ideas that I do not, please share them! You have been selected for this lab not just because of your passions and eagerness for learning, but also because I believe you can bring your unique perspective to problems. I look forward to learning from you.
 
 I believe that science is better when it's diverse and inclusive, and that means removing barriers and meeting people where they are, whenever possible. If you want to work in the Bahlai Lab, or are currently working here and facing a barrier affecting your ability to do work and contribute to your fullest extent, please let me know (in as specific or nonspecific terms as you are comfortable) so we can work together with campus resources and build necessary accomodations. 
+
 ## Grad student expectations
 The expectations of graduate students enrolled in our MS and PhD programs in the [Kent State University Department of Biological Sciences](https://www.kent.edu/biology) are outlined in our [graduate student handbook](https://du1ux2871uqvu.cloudfront.net/sites/default/files/file/BSCI%20Grad%20Handbook%202017.pdf). The back of this guide contains links to specific forms, including a checklist of degree completion requirements for both the MS and PhD programs. We will use this as a template for your individual expectations within the lab.
 
