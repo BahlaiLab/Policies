@@ -18,7 +18,7 @@ To make clear what is expected, we ask all members of the community to conform t
 
 * Please make an effort to make an inclusive environment for everyone. Give everyone a chance to talk and an opportunity to contribute.
 
-* Watch out for [microaggressions](https://en.wikipedia.org/wiki/Microaggression). Be aware that your actions can be hurtful to others or contribute to a negative environment even if you had no intent of harm. Listen. Offer a genuine apology. Commit to learning and doing better.
+* Watch out for [microaggressions](https://en.wikipedia.org/wiki/Microaggression). ***Be aware that your actions can be hurtful to others or contribute to a negative environment even if you had no intent of harm.*** Listen. Offer a genuine apology. Commit to learning and doing better.
 
 * A SPECIAL NOTE: Your work in this lab will be publicly available and recorded permanently on github. Please conduct yourself accordingly.
 
@@ -30,16 +30,5 @@ Members of the community who violate these rules - no matter how much they have 
 
 **To report an issue** please contact [Christie Bahlai](https://github.com/cbahlai). All communication will be treated as confidential.
 
-### Flexible working hours
-
-This sentence is stolen from [Bastian Greshake's](https://github.com/gedankenstuecke) email footer and forms the basis of the Bahlai Lab's policy on flexible working:
-
-> While I may be sending this email outside my normal office hours, I have no expectation to receive a reply outside yours.
-
-The hours that members of the lab choose to work is up to them. We are each welcome to send work-related emails or pull requests over the weekend or late at night, but no lab members are required to reply to them outside of their typical work hours.
-
-Lab members are welcome to work flexibly for any reason. All lab members will have at least a few hours each week of designated interaction time with Christie in order to stay in touch on any challenges or successes, but it is the policy of the Bahlai Lab that every member is already self-motivated and may choose to deviate from a traditional 9 to 5 day in order to meet our collective goals.
-
-**If you experience any challenges related to flexible working within the lab** please contact [Christie Bahlai](https://github.com/cbahlai). All communication will be treated as confidential.
 
 > The material in this code of conduct is derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. Bahlai Lab Code of conduct is licensed under CC BY 4.0 by Dr. Christie Bahlai
