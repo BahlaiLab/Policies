@@ -1,3 +1,5 @@
 ## A Compendium of tips for people joining the lab
 *by Bahlai Lab members*
 1. If you don't know what you should be doing, that's normal- grad school is a lot more open and wishy washy than undergrad. Your time is mostly yours to define, with lots to do but a lot of flexibility in how you do it, and this can be tricky to figure out at first. Find other graduate students who have been here a while and ask them what they do in a day. Watch what your collegues do. You don't need to manage things the same way as others, but this will help you understand pace, and culture, and expectations for how you will work.
+2. Take advantage of opportunities on campus. Go to all relevant seminars possible. Join journal clubs. These are SO SO SO important to steeping yourself in the culture of your field, for building connections, and for your learning.
+3. Your writing is not going to be great when you start out. That's normal! Edit each other's drafts, and please allow time for 2-3 complete overhauls of writing you'll be submitting anywhere. Christie will expect at least several drafts, back and forth, before the work goes out into the world
