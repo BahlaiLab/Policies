@@ -2,7 +2,7 @@
 
 Science is hard, and the work of making sure science isn't harder than it needs to be is on all of us. We create our culture, and in the Bahlai lab, our culture is inclusive.
 
-We value the participation of every member of our community and want to ensure an that every lab member and collaborator has a positive, educational experience unhindered by unneccesary challenges caused by non-inclusive behavior. Accordingly, everyone who participates in any Bahlai Lab project is expected to show respect and courtesy to other community members at all times.
+We value the participation of every member of our community and want to ensure an that every lab member and collaborator has a positive, educational experience unhindered by unnecessary challenges caused by non-inclusive behavior. Accordingly, everyone who participates in any Bahlai Lab project is expected to show respect and courtesy to other community members at all times.
 
 Christie Bahlai, as head of the Bahlai Lab, and all lab members, are dedicated to a ***harassment and discrimination-free experience for everyone.*** Discrimination or harassment based on racial or ethnic background, citizenship status, religion (or lack thereof), political affiliation, gender identity/expression, sexual orientation, dis/ability status, appearance or body size will not be tolerated.  **We do not tolerate harassment or discrimination by and/or of members of our community in any form**. 
 
@@ -12,7 +12,7 @@ To make clear what is expected, we ask all members of the community to conform t
 
 * All communication - online and in person - should be appropriate for a professional audience including people of many different backgrounds. Sexual or discriminatory language and imagery is not appropriate at any time.
 
-* Be kind to others. Do not insult or put down other contributers.
+* Be kind to others. Do not insult or put down other contributors.
 
 * Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
 
