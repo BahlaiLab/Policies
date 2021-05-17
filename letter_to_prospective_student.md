@@ -20,4 +20,5 @@ https://github.com/BahlaiLab/Managing_expectations_EAGER
 If you find you’re interested in pursuing a graduate program with me after looking at these materials, please drop me an email! I’m happy to set up a meeting to talk about our mutual interests, our program, and the application process.
 
 My best,
--Christie Bahlai
+
+Christie Bahlai
