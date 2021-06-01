@@ -1,6 +1,6 @@
 Hi Student!
 
-Thank you for your interest in my lab. Our program is now closed to applications for the 2021-22 cohort year but will be accepting applications for 2022-23 in September-December. I was planning on taking one new student in 22-23. If you’re interested in working with me I encourage you to read some documents I’ve prepared about my lab culture and research interests.  The lab policies and procedures guide is here: 
+Thank you for your interest in my lab. Our program is now closed to applications for the 2021-22 cohort year but will be accepting applications for 2022-23 in September-December of 2021. I was planning on taking one new MS or PhD student in 2022-23. If you’re interested in working with me I encourage you to read some documents I’ve prepared about my lab culture and research interests.  The lab policies and procedures guide is here: 
 https://github.com/BahlaiLab/Policies 
 
 It contains information about my advising style, approaches and expectations.
