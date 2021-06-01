@@ -1,6 +1,6 @@
 # Policies
 
-This repo contains a collection of policies, standard procedures and guidelines we adhere to in the Bahlai lab. These documents are intended to help lab members get aquainted with the culture of the lab, and to help collaborators and colleagues see how we do things. Generally, you'll pobably want to read these in the following order:
+This repo contains a collection of policies, standard procedures and guidelines we adhere to in the Bahlai lab. These documents are intended to help lab members get aquainted with the culture of the lab, and to help collaborators and colleagues see how we do things. Generally, you'll probably want to read these in the following order:
 
 1. [For prospective students](https://github.com/BahlaiLab/Policies/blob/master/letter_to_prospective_student.md) So, you think you might want to be a computational ecologist. GREAT. Here's some stuff you need to think about before you sign up.
 2. [General guidelines](https://github.com/BahlaiLab/Policies/blob/master/general_guidelines.md) Wherein you can figure out the Bahlai Lab's general vibe.
