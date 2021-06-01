@@ -5,7 +5,7 @@ This repo contains a collection of policies, standard procedures and guidelines 
 1. [For prospective students](https://github.com/BahlaiLab/Policies/blob/master/letter_to_prospective_student.md) So, you think you might want to be a computational ecologist. GREAT. Here's some stuff you need to think about before you sign up.
 2. [General guidelines](https://github.com/BahlaiLab/Policies/blob/master/general_guidelines.md) Wherein you can figure out the Bahlai Lab's general vibe.
 3. [Code of conduct](https://github.com/BahlaiLab/Policies/blob/master/Code_of_conduct.md) Some ground rules for interacting in and with the lab.
-4. [Consulting policy](https://github.com/BahlaiLab/Policies/blob/master/Consulting.md) You: "Nope, nope nope, I don't want to be in your lab, but I do need your help!"
+4. [Consulting policy](https://github.com/BahlaiLab/Policies/blob/master/Consulting.md) You: "Nope, nope nope, I don't want to be in your lab, thanks. But I do need your help!"
 5. [Tips for starting in the lab](https://github.com/BahlaiLab/Policies/blob/master/tips_for_new_personnel.md) So you are here! Here's a Bahlai Lab quickstart guide.
 6. [Oddly specific rules](https://github.com/BahlaiLab/Policies/blob/master/Oddly_specific_rules.md) Christie is a human being with pet peeves.
 7. [Project completion guidelines](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md) You're here, you're doing stuff, but what does it look like to be PhDONE?
