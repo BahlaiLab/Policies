@@ -12,7 +12,7 @@ https://github.com/BahlaiLab/CAREER2020
 
 https://github.com/BahlaiLab/Managing_expectations_EAGER
 
-If you’re interested in working with me I strongly encourage you to read some documents I’ve prepared about my lab culture and research interests.  The lab policies and procedures guide is here: 
+If you’re interested in working with me I strongly encourage you to read some documents I’ve prepared about my lab culture.  The lab policies and procedures guide is here: 
 https://github.com/BahlaiLab/Policies 
 
 This repository contains information about my advising style, approaches and expectations. All lab members are expected to adhere to the lab code of conduct.
