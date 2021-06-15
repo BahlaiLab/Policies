@@ -17,7 +17,7 @@ https://github.com/BahlaiLab/Policies
 
 This repository contains information about my advising style, approaches and expectations. All lab members are expected to adhere to the lab code of conduct.
 
-If you’re interested in pursuing a graduate program with me after looking at these materials, please drop me an email detailing your background, research interests and career goals. If we find there are significant synergies between my research and your goals, I’m happy to set up a meeting to talk about our program and the application process.
+If you’re interested in pursuing a graduate program with me after looking at these materials, please drop me an email detailing your background, research interests and career goals. If I find there are significant synergies between my research and your goals, I’m happy to set up a meeting to talk about our program and the application process.
 
 My best,
 
