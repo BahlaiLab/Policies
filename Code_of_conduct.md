@@ -12,11 +12,11 @@ To make clear what is expected, we ask all members of the community to conform t
 
 * All communication - online and in person - should be appropriate for a professional audience including people of many different backgrounds. Sexual or discriminatory language and imagery is not appropriate at any time.
 
-* Be kind to others. Criticism is essential in science, but it must be constructive if we're all going to move forward.
+* Be kind to others. Criticism is essential in science, but it must be constructive if we're going to move it forward in a supportive, inclusive way.
 
-* Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate, but even more generally, treat others with respect. Give collegues your attention and courtesy.
+* Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate, but even more generally, treat others with respect. Give colleagues your attention and courtesy.
 
-* Please make an effort to make an inclusive environment for everyone. Give everyone a chance to talk and an opportunity to contribute. Don't dominate or try to compete with your collegues. Lift up and make space.
+* Please make an effort to make an inclusive environment for everyone. Give everyone a chance to talk and an opportunity to contribute. Don't dominate, talk over, or try to compete with your colleagues. Lift up and make space.
 
 * Watch out for [microaggressions](https://en.wikipedia.org/wiki/Microaggression). ***Be aware that your actions can be hurtful to others or contribute to a negative environment even if you had no intent of harm.*** Listen. Offer a genuine apology. Commit to learning and doing better.
 
