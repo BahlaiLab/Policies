@@ -6,10 +6,18 @@ Each student will complete original resaerch as the core goal of their graduate 
 
 I expect students to complete an extensive literature review of their topic in their first year of study- this will be the underpinning of all your future research: it is essential you know what's been done in the field previously before you know how you can build on it by addressing your specific problem.
 
-## Master's timeline
+## Master's timeline 
+Offical program checklist [here](https://www-s3-live.kent.edu/s3fs-root/s3fs-public/file/ms%20prog%20checklist%20-%20UPDATED%202021.pdf)
 
-- [ ] timeline
-- [ ] timeline
+- First year (assuming Fall admission) 
+- [ ] Choose classes for first semester (summer before you start)
+- [ ] Start literature review
+- [ ] Form advisory committee (by December)
+- [ ] Program of study form
+- [ ] Take classes
+- [ ] Design research (write proposal and submit to committee by April)
+- [ ] Begin experiments/data collection
+- [ ] Thesis topic form (near end of first year)
 
 ## Ph.D timeline
 - [ ] timeline
