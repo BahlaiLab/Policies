@@ -4,6 +4,7 @@ I’m a biology  and data science professor, so I don’t think I can be much he
 
 Asking professors for help is a great idea, but only once you have specific questions and can make sure you’re directing your questions to the right people. Generally we put a fair bit about what we do on the web, either through our university or personal websites. You can look at directories (For example [ directory of a department that actually does  X ]) and once you find someone whose expertise/ research area aligns with the question you’re asking- and then reach out to them- you might want to ask them specific questions about their opinions on things relevant to our area.
 
+Good luck with your project!
 
 Best,
 Dr. Bahlai
