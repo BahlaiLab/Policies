@@ -26,7 +26,7 @@ Unacceptable behavior includes offensive verbal comments related to gender, sexu
 
 ***Participants asked to stop any harassing or discriminatory behavior are expected to comply immediately.***
 
-Members of the community who violate these rules - no matter how much they have contributed to the Bahlai lab, or how specialised their skill set - will be approached by Christie Bahlai. If inappropriate behaviour persists after a discussion with Christie, the issue will be escalated according to procedures laid out by the relevant entities in Kent State's [Office of Equity]([https://www.kent.edu/diversity/support-services-students-staff-and-faculty](https://www.kent.edu/studentaffairs/genderequity-titleix/filing-report-or-complaint-resources))
+Members of the community who violate these rules - no matter how much they have contributed to the Bahlai lab, or how specialised their skill set - will be approached by Christie Bahlai. If inappropriate behaviour persists after a discussion with Christie, the issue will be escalated according to procedures laid out by the relevant entities in Kent State's [Office of Equity](https://www.kent.edu/diversity/support-services-students-staff-and-faculty)
 
 **To report an issue** please contact [Christie Bahlai](https://github.com/cbahlai). All communication will be treated as confidential.
 
