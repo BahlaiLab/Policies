@@ -12,6 +12,10 @@ https://github.com/BahlaiLab/CAREER2020
 
 https://github.com/BahlaiLab/Managing_expectations_EAGER
 
+I've also recently been part of a project focussed on synthesizing insect populations to better understand biodiversity loss. More information about that is here:
+
+https://statusofinsects.github.io/index.html
+
 If you’re interested in working with me I strongly encourage you to read some documents I’ve prepared about my lab culture.  The lab policies and procedures guide is here: 
 https://github.com/BahlaiLab/Policies 
 
