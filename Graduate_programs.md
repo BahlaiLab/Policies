@@ -6,7 +6,7 @@ Each student will complete original research as the core goal of their graduate 
 
 I expect students to complete an extensive literature review of their topic in their first year of study- this will be the underpinning of all your future research: it is essential you know what's been done in the field previously before you know how you can build on it by addressing your specific problem.
 
-Below is a rough timeline, with approximate order of tasks you'll be expected to complete over the course of your degree program
+Below is a rough timeline, with approximate order of tasks you'll be expected to complete over the course of your degree program. we defer to the official rules from the program handbok for the hard rules but these are the general milestones with the approximate timing of things that we strive for in my lab.
 
 ## Master's timeline 
 Offical program checklist [here](https://www-s3-live.kent.edu/s3fs-root/s3fs-public/file/ms%20prog%20checklist%20-%20UPDATED%202021.pdf)
@@ -41,6 +41,7 @@ Offical program checklist [here](https://www-s3-live.kent.edu/s3fs-root/s3fs-pub
 - [ ] Graduate!
 
 ## Ph.D timeline
+Offical program checklist [here](https://www.kent.edu/biology/doctoral-program-checklist-2021-0)
 - ### First year (assuming Fall admission) 
 - [ ] Choose classes for first semester (summer before you start)
 - [ ] Start literature review
