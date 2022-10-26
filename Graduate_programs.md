@@ -41,6 +41,41 @@ Offical program checklist [here](https://www-s3-live.kent.edu/s3fs-root/s3fs-pub
 - [ ] Graduate!
 
 ## Ph.D timeline
-- [ ] timeline
-- [ ] timeline
+- ### First year (assuming Fall admission) 
+- [ ] Choose classes for first semester (summer before you start)
+- [ ] Start literature review
+- [ ] Form advisory committee (by December)
+- [ ] Program of study form
+- [ ] Take classes
+- [ ] Design research (write proposal and submit to committee by April)
+- [ ] Complete literature review
+- [ ] Begin experiments/data collection
+- [ ] First summer of research
+
+- ### Second year 
+- [ ] Complete classes
+- [ ] Continue research/data collection
+- [ ] Write up first experiment/product
+- [ ] Design, deploy second experiments
+- [ ] Candidacy exam (by end of spring semester)
+- [ ] Second summer of research
+
+- ### Third Year 
+- [ ] Write prospectus
+- [ ] Defend prospectus
+- [ ] Continue research
+
+- ### Fourth Year
+- [ ] Update literature review
+- [ ] Begin writing dissertation
+- [ ] Continue research
+
+- ### Fifth year
+- [ ] Complete research
+- [ ] Write dissertation
+- [ ] Submit papers/products
+- [ ] Complete defense and oral examination
+- [ ] Make revisions and submit final dissertation
+- [ ] Submit all program forms
+- [ ] Graduate!
 
