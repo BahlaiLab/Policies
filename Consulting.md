@@ -13,7 +13,7 @@ For problems where I am required to make a substantial intellectual contribution
 
 If you would like to book a meeting with me, you can use this interface which automatically places the meeting in my schedule:
 
-[![alt text](https://youcanbook.me/resources/pics/book-button.png "book me?")](https://cbahlai.youcanbook.me/)
+[![alt text](https://youcanbook.me/resources/pics/book-button.png "book me?")](https://cbahlai1.youcanbook.me/)
 
 ____
-(1) That time I accidentally did a student's homework for them made for a very awkward conversation with my colleague, their instructor.
+(1) That time I accidentally did a student's homework for them made for a very awkward conversation with their instructor.
