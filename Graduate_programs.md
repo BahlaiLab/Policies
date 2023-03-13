@@ -1,8 +1,8 @@
 # Graduate programs
 
-In general, I will take students via Kent's Ecology and Evolutionary Biology Graduate program. Typical master's programs are 2-3 years, and typical PhDs will take 5-6 years. In our programs, students typically take 2-3 classes per semester during their first two years of study. Some of these courses will be prescribed by the program, and others will be selected in conjunction with your committee, based on students interests, goals, and project. 
+In general, I will take students via Kent's Ecology and Evolutionary Biology Graduate program. Typical master's programs are 2 years, and typical PhDs will take 5 years. In our programs, students typically take 2-3 classes per semester during their first two years of study. Some of these courses will be prescribed by the program, and others will be selected in conjunction with your committee, based on students interests, goals, and project. 
 
-Each student will complete original research as the core goal of their graduate program. "Research" is dificult to quantify without using the constructs of western (Eurocentric) academic standards, but generally the expectation is that the quantum we use is a "paper" and a MS student will produce 2-3 papers of research and a PhD student will produce 3-5. Original scientific software, a lucid database interface, or a major extension document might also 'count' as a quantum of research for our purposes. 
+Each student will complete original research as the core goal of their graduate program. "Research" is dificult to quantify in the context of a grad program at an Ohio public university without using the constructs of western (Eurocentric) academic standards, but generally the expectation is that the quantum we use is a "paper" and a MS student will produce 1-3 papers of research and a PhD student will produce 3-5. Original scientific software, a lucid database interface, or a major extension document might also 'count' as a quantum of research for our purposes. 
 
 I expect students to complete an extensive literature review of their topic in their first year of study- this will be the underpinning of all your future research: it is essential you know what's been done in the field previously before you know how you can build on it by addressing your specific problem.
 
@@ -22,17 +22,13 @@ Offical program checklist [here](https://www-s3-live.kent.edu/s3fs-root/s3fs-pub
 - [ ] Begin experiments/data collection
 - [ ] Proposal presentation to committee
 - [ ] Thesis topic form (near end of first year)
-- [ ] First summer of research
+- [ ] Summer of research
 
 - ### Second year 
 - [ ] Complete classes
 - [ ] Continue research/data collection
 - [ ] Write up first experiment/product
 - [ ] Design, deploy second and subsequent experiments
-- [ ] Second summer of research
-
-- ### Third Year (may be partial)
-- [ ] Complete and write up subsequent experiments
 - [ ] Update literature review
 - [ ] Write thesis
 - [ ] Complete defense and oral examination
@@ -62,8 +58,8 @@ Offical program checklist [here](https://www.kent.edu/biology/doctoral-program-c
 - [ ] Second summer of research
 
 - ### Third Year 
-- [ ] Write prospectus
-- [ ] Defend prospectus
+- [ ] Write prospectus 
+- [ ] Present prospectus (by end of fall)
 - [ ] Continue research
 
 - ### Fourth Year
