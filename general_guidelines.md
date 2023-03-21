@@ -4,7 +4,7 @@ Welcome to the [Bahlai Lab of Applied Computational Ecology](https://bahlailab.o
 ## Open philosophy
 First and foremost, the Bahlai Lab is an [open science](https://en.wikipedia.org/wiki/Open_science) lab. There are several major facets to this, but the core is: *the way this lab operates is grounded in my personal belief that participation in science is a public act, and done in the public good.* Science allows us to be part of something bigger, and to foster a *healthy, collaborative and truly inclusive and equitable scientific enterprise, it's essential that we give back at least as much as we take from the community*. I could get down into the weeds about specific tools and techniques that we use in our open science infrastructure here, but those tools are used to support these values, [they themselves are not the values](https://www.americanscientist.org/article/open-science-isnt-always-open-to-all-scientists). What we commit to do, as open scientists, is:
 
-* Seek out expertise from conventional and unconventional stakeholders in our work. Invite comment and participation. Maintain a dialogue. Welcome feedback. Break down the barriers that prevent any and all interested parties from engaging in your corner of science.
+* Seek out expertise from conventional and unconventional contributors in our work. Invite comment and participation. Maintain a dialogue. Welcome feedback. Break down the barriers that prevent any and all interested parties from engaging in your corner of science.
 
 * Make supporting research data freely available whenever possible, to support future use in meta-analyses, reviews, and revisitations of our work. 
 
