@@ -1,6 +1,6 @@
 Hi Student!
 
-Thank you for your interest in my lab. Our program is accepting applications for 2023-24 in September-December of 2022. 
+Thank you for your interest in my lab. Our program will next be accepting applications in Fall 23, for admission in the following fall (2024). 
 
 I expect incoming graduate students to have strong interest and familiarity in the work that is done in my lab (because presumably, this is the type of work you want to do!). I am a computational ecologist and data scientist. All my students' projects have very strong components of modelling, coding and computation, or data and information processing, as those subjects intersect with ecology and environmental science. Students will be expected to lead and disseminate original scientific work as part of their graduate program. Here’s my Google Scholar profile with examples of work completed by me and my students, be sure to sort by date as my more recent publications are the ones that are most relevant to what my group is working on right now:
 
