@@ -15,6 +15,7 @@ Offical program checklist [here](https://www-s3-live.kent.edu/s3fs-root/s3fs-pub
 - [ ] Choose classes for first semester (summer before you start)
 - [ ] Start literature review
 - [ ] Form advisory committee (by December)
+- [ ] Lead first committee meeting
 - [ ] Program of study form
 - [ ] Take classes
 - [ ] Design research (write proposal and submit to committee by April)
@@ -28,6 +29,7 @@ Offical program checklist [here](https://www-s3-live.kent.edu/s3fs-root/s3fs-pub
 - [ ] Complete classes
 - [ ] Continue research/data collection
 - [ ] Write up first experiment/product
+- [ ] Host a committee meeting to update your committee
 - [ ] Design, deploy second and subsequent experiments
 - [ ] Update literature review
 - [ ] Write thesis
@@ -42,6 +44,7 @@ Offical program checklist [here](https://www.kent.edu/biology/doctoral-program-c
 - [ ] Choose classes for first semester (summer before you start)
 - [ ] Start literature review
 - [ ] Form advisory committee (by December)
+- [ ] Lead first committee meeting
 - [ ] Program of study form
 - [ ] Take classes
 - [ ] Design research (write proposal and submit to committee by April)
@@ -53,22 +56,26 @@ Offical program checklist [here](https://www.kent.edu/biology/doctoral-program-c
 - [ ] Complete classes
 - [ ] Continue research/data collection
 - [ ] Write up first experiment/product
+- [ ] Host a committee meeting to update your committee
 - [ ] Design, deploy second experiments
 - [ ] Candidacy exam (by end of spring semester)
 - [ ] Second summer of research
 
 - ### Third Year 
 - [ ] Write prospectus 
+- [ ] Host a committee meeting to update your committee
 - [ ] Present prospectus (by end of fall)
 - [ ] Continue research
 
 - ### Fourth Year
 - [ ] Update literature review
+- [ ] Host a committee meeting to update your committee
 - [ ] Begin writing dissertation
 - [ ] Continue research
 
 - ### Fifth year
 - [ ] Complete research
+- [ ] Host a committee meeting to update your committee
 - [ ] Write dissertation
 - [ ] Submit papers/products
 - [ ] Complete defense and oral examination
