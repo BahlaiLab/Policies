@@ -6,7 +6,7 @@ This repo contains a collection of policies, standard procedures and guidelines 
 2. [General guidelines](https://github.com/BahlaiLab/Policies/blob/master/general_guidelines.md) Wherein you can figure out the Bahlai Lab's general vibe.
 3. [Code of conduct](https://github.com/BahlaiLab/Policies/blob/master/Code_of_conduct.md) Some ground rules for interacting in and with the lab.
 4. [Consulting policy](https://github.com/BahlaiLab/Policies/blob/master/Consulting.md) You: "Nope, nope nope, I don't want to be in your lab, thanks. But I do need your help!"
-5. [Graduate guidelines and timelines](https://github.com/BahlaiLab/Policies/blob/master/Graduate_programs.md) You're a grad student now! What should you be working on?How much of it do you need to do? Breaking it down in rough order.
+5. [Graduate guidelines and timelines](https://github.com/BahlaiLab/Policies/blob/master/Graduate_programs.md) You're a grad student now! What should you be working on? How much of it do you need to do? Breaking it down in rough order.
 6. [Tips for starting in the lab](https://github.com/BahlaiLab/Policies/blob/master/tips_for_new_personnel.md) Here's a Bahlai Lab quickstart guide, in peppy protip format.
 7. [Oddly specific rules](https://github.com/BahlaiLab/Policies/blob/master/Oddly_specific_rules.md) Christie is a human being with pet peeves.
 8. [Project completion guidelines](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md) You're here, you're doing stuff, but what does it look like to be PhDONE? Getting at the finer scale documentation requirements of your quanta of sciences.
