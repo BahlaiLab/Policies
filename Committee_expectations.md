@@ -8,8 +8,18 @@ For master's students, you need to have 3 (and rarely, 4) faculty members on you
 For doctoral students, your committee starts in basically the same form, with the same constraints, as a master's student, with 3, and rarely four members. After you pass your candidacy exam, you will be required to add one additional member- this is when most students add the external person because the paperwork works out nicer. If we find ourselves with two external members, though, we need Christie plus 2 BSCI faculty, because to the 'majority BSCI' rule, for a total of 5. Don't look at me, I didn't make the forms up.
 
 ## Asking people to be on your committee
+Work with your advisor to identify a list of people you'd like to ask to be on your committee. It's a good idea to have analternate or two in mind, because sometimes even the perfect fit faculty member will have too many other commitments and need to say no. Usually students first aproach asking somone to be on their committee by email, and requesting a meeting. In that email, you'll want to introduce yourself, breifly describe your project, and explain why you'd like that person to be on your committee. The person in question may agree right away, they might want to have a meeting to learn more, or they might say no. If a no comes up at any time, dust yourself off, and move down the list. It's not personal! It's just faculty can get really busy.
+
 ## Holding a committee meeting
 
+Once you have a committee, you're going to need to meet with them regularly. Department rules say you should meet with them all together at least once a year, but it certainly doesn't hurt to meet more often than that (okay it might, if you're not using your time well- but we'll cover this in the next paragraph). 
 
+Committee meetings are initiated by, and generally led by the student. They are for you to update your committee about where you are, get advice about next steps, and practicing talking about your work (and committee meetings are in addition to particular program meetings which are held for very particular milestones- candidacy exams, prospectus, and the like).
+
+The main things you need to think about when putting together a committee meeting are scheduling, establishing goals of the meeting, and providing information to update your committee on the progress of the project.
+
+First is scheduling. This is always a bit hard- you are herding cats. Use a scheduling poll, give many options. Expect to give a lead time of at LEAST two weeks. I'm sorry, I know myself and I know my collegues and we're hard to pin down. Virtual and hybrid meetings are fine, despite what anyone says. If they need to be  100% in person there is a good chance scheduling will be impossible- so think flexibly. If you need to book a room, don't forget to do so- and tell everyone where you'll meet.
+
+Please cirulate an agenda/ meeting goals and any documents you'd like the committee to review at least a week before the meeting. This helps set the tone and make sure we get to the things we need to get to in the time alotted.  
 
 (this page is under construction do don't take anything it says too seriously)
