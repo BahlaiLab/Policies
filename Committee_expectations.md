@@ -5,5 +5,11 @@ The first member of your committee is your advisor. If you're reading this, that
 
 For master's students, you need to have 3 (and rarely, 4) faculty members on your committee. Your advisor is 1, and you need to select at LEAST ONE other member of the BSCI graduate faculty to sit on your committee as the second. Your third member can be from BSCI, or can be an external person.
 
+For doctoral students, your committee starts in basically the same form, with the same constraints, as a master's student, with 3, and rarely four members. After you pass your candidacy exam, you will be required to add one additional member- this is when most students add the external person because the paperwork works out nicer. If we find ourselves with two external members, though, we need Christie plus 2 BSCI faculty, because to the 'majority BSCI' rule, for a total of 5. Don't look at me, I didn't make the forms up.
+
+## Asking people to be on your committee
+## Holding a committee meeting
+
+
 
 (this page is under construction do don't take anything it says too seriously)
