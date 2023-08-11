@@ -20,6 +20,10 @@ The main things you need to think about when putting together a committee meetin
 
 First is scheduling. This is always a bit hard- you are herding cats. Use a scheduling poll, give many options. Expect to give a lead time of at LEAST two weeks. I'm sorry, I know myself and I know my collegues and we're hard to pin down. Virtual and hybrid meetings are fine, despite what anyone says. If they need to be  100% in person there is a good chance scheduling will be impossible- so think flexibly. If you need to book a room, don't forget to do so- and tell everyone where you'll meet.
 
-Please cirulate an agenda/ meeting goals and any documents you'd like the committee to review at least a week before the meeting. This helps set the tone and make sure we get to the things we need to get to in the time alotted.  
+Next is establishing goals. Please cirulate an agenda/ meeting goals and any documents you'd like the committee to review at least a week before the meeting. This helps set the tone and make sure we get to the things we need to get to in the time alotted.  
+
+Finally, run the meeting. This usually works best if you prepare some kind of presentation: basically, put together some slides to tell your committee what you've been up to, what you've found, what your next steps are, and what your timeline is for completion. This should combine both the science you're doing and the programmatic milestones that you're aiming to hit. Ask lots of questions and encourage the committee to ask lots as well- ideally this is a conversation, but with structure. Committees are happiest when they can both see that the student has direction, and can take re-direction, but also when they feel useful- so lean into this group of experts to help you form your project. Think about your goals in the near and far term and talk about them in the context of how your project and your program help you get there.
+
+
 
 (this page is under construction do don't take anything it says too seriously)
