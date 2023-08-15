@@ -15,7 +15,7 @@ Offical program checklist [here](https://www-s3-live.kent.edu/s3fs-root/s3fs-pub
 - [ ] Choose classes for first semester (summer before you start)
 - [ ] Start literature review
 - [ ] Form advisory committee (by December)
-- [ ] Lead first committee meeting
+- [ ] [Lead first committee meeting](https://github.com/BahlaiLab/Policies/blob/master/Committee_expectations.md)
 - [ ] Program of study form
 - [ ] Take classes
 - [ ] Design research (write proposal and submit to committee by April)
@@ -44,7 +44,7 @@ Offical program checklist [here](https://www.kent.edu/biology/doctoral-program-c
 - [ ] Choose classes for first semester (summer before you start)
 - [ ] Start literature review
 - [ ] Form advisory committee (by December)
-- [ ] Lead first committee meeting
+- [ ] [Lead first committee meeting](https://github.com/BahlaiLab/Policies/blob/master/Committee_expectations.md)
 - [ ] Program of study form
 - [ ] Take classes
 - [ ] Design research (write proposal and submit to committee by April)
