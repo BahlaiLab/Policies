@@ -14,7 +14,7 @@ Work with your advisor to identify a list of people you'd like to ask to be on y
 
 Once you have a committee, you're going to need to meet with them regularly. Department rules say you should meet with them all together at least once a year, but it certainly doesn't hurt to meet more often than that (okay it might, if you're not using your time well- but we'll cover that in this section). 
 
-Committee meetings are initiated by, and generally led by the student. They are for you to update your committee about where you are, get advice about next steps, and practicing talking about your work (and committee meetings are in addition to particular program meetings which are held for very particular milestones- candidacy exams, prospectus, and the like, though sometimes meetings are combined for efficiancy).
+Committee meetings are initiated by, and generally led by the student. They are for you to update your committee about where you are, get advice about next steps, and practicing talking about your work (and committee meetings are in addition to particular program meetings which are held for very particular milestones- candidacy exams, prospectus, and the like, though sometimes meetings are combined for efficiency).
 
 The main things you need to think about when putting together a committee meeting are scheduling, establishing goals of the meeting, and providing information to update your committee on the progress of the project.
 
