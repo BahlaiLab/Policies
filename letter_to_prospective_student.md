@@ -12,7 +12,7 @@ https://github.com/BahlaiLab/CAREER2020
 
 https://github.com/BahlaiLab/Managing_expectations_EAGER
 
-I've also recently been part of a project focussed on synthesizing insect populations to better understand biodiversity loss. More information about that is here:
+I've also recently been part of a project focused on synthesizing insect populations to better understand biodiversity loss. More information about that is here:
 
 https://statusofinsects.github.io/index.html
 
