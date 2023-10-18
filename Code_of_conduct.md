@@ -18,7 +18,7 @@ To make clear what is expected, we ask all members of the community to conform t
 
 * Please make an effort to make an inclusive environment for everyone. Give everyone a chance to talk and an opportunity to contribute. Don't dominate, talk over, or try to compete with your colleagues. Lift up and make space.
 
-* Watch out for [microaggressions](https://en.wikipedia.org/wiki/Microaggression). ***Be aware that your actions can be hurtful to others or contribute to a negative environment even if you had no intent of harm.*** Listen. Offer a genuine apology. Commit to learning and doing better.
+* ***Be aware that your actions can be hurtful to others or contribute to a negative environment even if you had no intent of harm.*** We all make missteps. That's ok! Listen. Offer a genuine apology. Commit to learning and doing better.
 
 * A SPECIAL NOTE: Your work in this lab will be publicly available and recorded permanently on github. Please conduct yourself accordingly.
 
