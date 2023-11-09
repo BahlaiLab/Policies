@@ -16,6 +16,6 @@ Write down everything- and I mean EVERYTHING you did. Think of it as a recipe ca
 ## 6. Results
 What did you find? Please include a results section that comments on patterns you found. Please include any graphs/charts tables produced as part of your analysis, photos of your work, and, THIS IS IMPORTANT, the raw data tables (in excel or CSV format) for any data you collected.
 ## 7. Discussion
-What does it all mean? What did you see? How do you interpret it? Was the approach you used good? Did the appraoch answer the questions or problems you set out to examine? What would you do next time?
+What does it all mean? What did you see? How do you interpret it? Was the approach you used good? Did the approach answer the questions or problems you set out to examine? What would you do next time?
 ## 8. References cited
 Cite your references!! (use referencing software like Zotero for fewer headaches)
