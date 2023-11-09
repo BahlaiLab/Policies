@@ -6,7 +6,7 @@ Reports should include:
 ## 1. Project title
 Give the project a descriptive title
 ## 2. Personnel involved
-If your work was to become an academic publication, who, besides you, should be granted authorship? please list and describe roles of students, graduate assistants, helpers from the community, and faculty involved.
+If your work was to become an academic publication, who, besides you, was a part of making this work happen? please list and describe roles of students, graduate assistants, helpers from the community, and faculty involved.
 ## 3. Introduction
 What do we know about the system you're studying? Include a brief literature review including scientific literature setting up the system and problem you are studying (this is not an exact ratio, but let's say at least four papers per credit hour you're enrolled in should be included in this review).
 ## 4. Problem statement / objectives  / hypothesis 
