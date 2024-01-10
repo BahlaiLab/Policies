@@ -11,9 +11,7 @@ For problems where I am required to make a substantial intellectual contribution
 - Authorship on manuscripts or other research products resulting from work where I have made these contributions
 - For external requests, service contracts can be negotiated with the Bahlai Lab via Kent State University Division of Research and Sponsored Programs
 
-If you would like to book a meeting with me, you can use this interface which automatically places the meeting in my schedule:
-
-[![alt text](https://youcanbook.me/resources/pics/book-button.png "book me?")](https://cbahlai1.youcanbook.me/)
+  If you'd like to reach out, send me an email! My email is my first initial followed by my last name, at kent.edu.
 
 ____
 (1) That time I accidentally did a student's homework for them made for a very awkward conversation with their instructor.
