@@ -29,6 +29,7 @@ Asking professors for help is a great idea, but only once you have specific ques
 I understand you're likely reaching out to fulfil the requirements of an assignment- please feel free to share my response with your instructor. Scientists get many requests like this and a lot of us just can't keep up with them, so please share [these](https://smallpondscience.com/2015/04/13/in-which-k-12-teachers-assign-students-to-contact-an-expert/) [links](https://www.astrokatie.com/student-requests) with them to help give context.
 
 Good luck with your project!
-Best, Dr. Bahlai
+Best, 
+Dr. Bahlai
 
 
