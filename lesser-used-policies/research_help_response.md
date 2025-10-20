@@ -20,3 +20,15 @@ Best,
 Dr. Bahlai
 
 
+And here's a shorter one for a somewhat targeted, but "I just need to interview someone" request:
+
+Hi Student!
+
+I’m afraid my schedule does not permit me to take on 1 on 1 interviews for class projects. I can offer you a few general research tips to get started though. Generally, it’s not a good idea to reach out to experts until you have specific questions you need them to answer, and you’ll want to read some general references first. 
+Asking professors for help is a great idea, but only once you have specific questions that can't be answered easily online- not interviewing people for the sake of interviewing- and you can make sure you’re directing your questions to the right people. Generally we put a fair bit about what we do on the web, either through our university or personal websites. You might want to ask them specific questions about their opinions on things relevant to your research topic, but you have to be specific: asking a professor about general information that's available on the web isn't the best use of their (or your!) time.
+I understand you're likely reaching out to fulfil the requirements of an assignment- please feel free to share my response with your instructor. Scientists get many requests like this and a lot of us just can't keep up with them, so please share [these](https://smallpondscience.com/2015/04/13/in-which-k-12-teachers-assign-students-to-contact-an-expert/) [links](https://www.astrokatie.com/student-requests) with them to help give context.
+
+Good luck with your project!
+Best, Dr. Bahlai
+
+
