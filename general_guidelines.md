@@ -29,6 +29,10 @@ I generally offer positive feedback profusely, and negative feedback in the form
 
 I believe that science is better when it's diverse and inclusive, and that means removing barriers and meeting people where they are, whenever possible. If you want to work in the Bahlai Lab, or are currently working here and facing a barrier affecting your ability to do work and contribute to your fullest extent, please let me know (in as specific or nonspecific terms as you are comfortable) so we can work together with campus resources and build necessary accomodations. 
 
+## Meetings and feedback
+
+A quick lab norm I want to flag: I’m very prone to going down interesting rabbit holes in conversation, which means meetings aren’t always the most efficient way for me to give feedback. To make sure your needs are actually met, please send me any writing and a short list of specific questions or decisions you want feedback on ahead of time. That way, when we do meet, we can focus on what you really need, and in many cases I can give better feedback asynchronously.
+
 ## Grad student-specific expectations
 *This may seem obvious, but to be clear: **to work in my lab, I expect all graduate students to have strong interests in insects** (and/or other taxa, I'm cool with plants and stuff), **math and modelling and programming and informatics and quantitative ecology, and drive for doing original work that advances science.** I also want to you think about why you want a graduate degree- how does this program and this research advance your personal goals?* I am here to support you but I also have very high expectations for you- I expect all of my students to be driven: to do, to learn and to make, in pursuit of their goals. I expect you to be committed to immersing yourself in your program: I want you to have a full life with friends and family and hobbies but a graduate program, by its nature, will take a lot of you, and a lot of time. This IS A BIG COMMITMENT and you need to be both available and open for it. We can do amazing things with your work but the ultimate drive needs to come from you. *I will not drag you through a graduate program.*
 
