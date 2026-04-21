@@ -21,3 +21,5 @@ McNamara Manning, K., J. Perrone, S. Petrycki, D.A. Landis, and C. Bahlai.  2024
 Didham RK, Basset Y, Collins CM, Leather SR, Littlewood NA, Menz MHM, Müller J, Packer L, Saunders ME, Schönrogge K, et al.: Interpreting insect declines: seven challenges and a way forward. Insect Conserv Divers 2020, 13:103–114. https://doi.org/10.1111/icad.12408 
 
 Zipkin EF, Zylstra ER, Wright AD, Saunders SP, Finley AO, Dietze MC, Itter MS, Tingley MW: Addressing data integration challenges to link ecological processes across scales. Front Ecol Environ 2021, 19:30–38. https://doi.org/10.1002/fee.2290
+
+Arnold, M.B., M. Back, M.D. Crowell, N. Farooq, P. Ghimire, O.A. Obarein, K.E. Smart, T. Taucher, E. VanderJeugdt,  K.I. Perry, D.A. Landis, and C.A. Bahlai. 2023. Coexistence between similar invaders: The case of two cosmopolitan exotic insects. Ecology.  https://doi.org/10.1002/ecy.3979 
