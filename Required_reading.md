@@ -23,3 +23,5 @@ Didham RK, Basset Y, Collins CM, Leather SR, Littlewood NA, Menz MHM, Müller J,
 Zipkin EF, Zylstra ER, Wright AD, Saunders SP, Finley AO, Dietze MC, Itter MS, Tingley MW: Addressing data integration challenges to link ecological processes across scales. Front Ecol Environ 2021, 19:30–38. https://doi.org/10.1002/fee.2290
 
 Arnold, M.B., M. Back, M.D. Crowell, N. Farooq, P. Ghimire, O.A. Obarein, K.E. Smart, T. Taucher, E. VanderJeugdt,  K.I. Perry, D.A. Landis, and C.A. Bahlai. 2023. Coexistence between similar invaders: The case of two cosmopolitan exotic insects. Ecology.  https://doi.org/10.1002/ecy.3979 
+
+Zhang, R., Zheng, J., Chen, X. et al. Increasing risks of post-experimental ecology. Nat. Clim. Chang. 16, 376–377 (2026). https://doi.org/10.1038/s41558-026-02583-3
