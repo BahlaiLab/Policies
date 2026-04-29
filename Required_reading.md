@@ -13,6 +13,8 @@ Zhang, R., Zheng, J., Chen, X. et al. 2026. Increasing risks of post-experimenta
 
 McClenachan, L. A. B. Cooper, M.G. McKenzie, J.A. Drew, The Importance of Surprising Results and Best Practices in Historical Ecology, BioScience, Volume 65, Issue 9, 01 September 2015, Pages 932–939, https://doi.org/10.1093/biosci/biv100
 
+Anderson, C.B. 2018. Biodiversity monitoring, earth observations and the ecology of scale. Ecol Lett, 21: 1572-1585. https://doi.org/10.1111/ele.13106
+
 
 
 ## Long term ecology, temporal ecology
