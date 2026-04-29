@@ -24,6 +24,8 @@ Zipkin EF, Zylstra ER, Wright AD, Saunders SP, Finley AO, Dietze MC, Itter MS, T
 
 Arnold, M.B., M. Back, M.D. Crowell, N. Farooq, P. Ghimire, O.A. Obarein, K.E. Smart, T. Taucher, E. VanderJeugdt,  K.I. Perry, D.A. Landis, and C.A. Bahlai. 2023. Coexistence between similar invaders: The case of two cosmopolitan exotic insects. Ecology.  https://doi.org/10.1002/ecy.3979 
 
-Zhang, R., Zheng, J., Chen, X. et al. Increasing risks of post-experimental ecology. Nat. Clim. Chang. 16, 376–377 (2026). https://doi.org/10.1038/s41558-026-02583-3
+Robertson, G. P., & Hamilton, S. K. 2015. Long-term ecological research at the Kellogg Biological Station LTER site. The ecology of agricultural landscapes: Long-term research on the path to sustainability, 1, 32. https://books.google.com/books?id=WPBxBgAAQBAJ&lpg=PA1&ots=46caeyWX8D&dq=importance%20of%20long%20term%20research%20lter&lr&pg=PA1#v=onepage&q=importance%20of%20long%20term%20research%20lter&f=false
+
+Zhang, R., Zheng, J., Chen, X. et al. 2026. Increasing risks of post-experimental ecology. Nat. Clim. Chang. 16, 376–377. https://doi.org/10.1038/s41558-026-02583-3
 
 McClenachan, L. A. B. Cooper, M.G. McKenzie, J.A. Drew, The Importance of Surprising Results and Best Practices in Historical Ecology, BioScience, Volume 65, Issue 9, 01 September 2015, Pages 932–939, https://doi.org/10.1093/biosci/biv100
