@@ -15,6 +15,8 @@ McClenachan, L. A. B. Cooper, M.G. McKenzie, J.A. Drew, The Importance of Surpri
 
 Anderson, C.B. 2018. Biodiversity monitoring, earth observations and the ecology of scale. Ecol Lett, 21: 1572-1585. https://doi.org/10.1111/ele.13106
 
+Gould, E., Fraser, H.S., Parker, T.H. et al. 2025. Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. BMC Biol 23, 35. https://doi.org/10.1186/s12915-024-02101-x
+
 
 
 ## Long term ecology, temporal ecology
