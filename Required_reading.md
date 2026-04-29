@@ -25,3 +25,5 @@ Zipkin EF, Zylstra ER, Wright AD, Saunders SP, Finley AO, Dietze MC, Itter MS, T
 Arnold, M.B., M. Back, M.D. Crowell, N. Farooq, P. Ghimire, O.A. Obarein, K.E. Smart, T. Taucher, E. VanderJeugdt,  K.I. Perry, D.A. Landis, and C.A. Bahlai. 2023. Coexistence between similar invaders: The case of two cosmopolitan exotic insects. Ecology.  https://doi.org/10.1002/ecy.3979 
 
 Zhang, R., Zheng, J., Chen, X. et al. Increasing risks of post-experimental ecology. Nat. Clim. Chang. 16, 376–377 (2026). https://doi.org/10.1038/s41558-026-02583-3
+
+McClenachan, L. A. B. Cooper, M.G. McKenzie, J.A. Drew, The Importance of Surprising Results and Best Practices in Historical Ecology, BioScience, Volume 65, Issue 9, 01 September 2015, Pages 932–939, https://doi.org/10.1093/biosci/biv100
