@@ -26,10 +26,7 @@ Bahlai, C.A., White, E.R., Perrone, J.D., Cusser, S., Stack Whitney, K., 2021. T
 
 Fournier, A.M.V., White, E.R., Heard, S.B., 2019. Site-selection bias and apparent population declines in long-term studies. Conservation Biology 33, 1370–1379. https://doi.org/10.1111/cobi.13371
 
-McNamara Manning, K., J. Perrone, S. Petrycki, D.A. Landis, and C. Bahlai.  2024. Adapting to changing methodology in a long-term experiment. Ecosphere.  https://doi.org/10.1002/ecs2.4951 
-
-Robertson, G. P., & Hamilton, S. K. 2015. Long-term ecological research at the Kellogg Biological Station LTER site. The ecology of agricultural landscapes: Long-term research on the path to sustainability, 1, 32. https://books.google.com/books?id=WPBxBgAAQBAJ&lpg=PA1&ots=46caeyWX8D&dq=importance%20of%20long%20term%20research%20lter&lr&pg=PA1#v=onepage&q=importance%20of%20long%20term%20research%20lter&f=false
-
+Bahlai, C.A. and E.F. Zipkin. 2020. The Dynamic Shift Detector: a model to identify changes in dynamic rules governing populations. PLoS Computational Biology. 16(1): e1007542.   https://doi.org/10.1371/journal.pcbi.1007542 
 
 
 
@@ -39,7 +36,21 @@ Bahlai, C.A. 2023. Forecasting insect dynamics in a changing world. Current Opin
 
 Didham RK, Basset Y, Collins CM, Leather SR, Littlewood NA, Menz MHM, Müller J, Packer L, Saunders ME, Schönrogge K, et al.: Interpreting insect declines: seven challenges and a way forward. Insect Conserv Divers 2020, 13:103–114. https://doi.org/10.1111/icad.12408 
 
+Wagner, D.L., E.M. Grames ,M.L. Forister, M.R. Berenbaum, & D. Stopak. 2021.  Insect decline in the Anthropocene: Death by a thousand cuts, Proc. Natl. Acad. Sci. U.S.A. 118 (2) e2023989118, https://doi.org/10.1073/pnas.2023989118
+
+
+
+## From our study systems
+
 Arnold, M.B., M. Back, M.D. Crowell, N. Farooq, P. Ghimire, O.A. Obarein, K.E. Smart, T. Taucher, E. VanderJeugdt,  K.I. Perry, D.A. Landis, and C.A. Bahlai. 2023. Coexistence between similar invaders: The case of two cosmopolitan exotic insects. Ecology.  https://doi.org/10.1002/ecy.3979 
+
+Mooney, E.H., Phillips, J.S., Tillberg, C.V., Sandrow, C., Nelson, A.S. and Mooney, K.A. 2016. Abiotic mediation of a mutualism drives herbivore abundance. Ecol Lett, 19: 37-44. https://doi.org/10.1111/ele.12540
+
+McNamara Manning, K., J. Perrone, S. Petrycki, D.A. Landis, and C. Bahlai.  2024. Adapting to changing methodology in a long-term experiment. Ecosphere.  https://doi.org/10.1002/ecs2.4951 
+
+Robertson, G. P., & Hamilton, S. K. 2015. Long-term ecological research at the Kellogg Biological Station LTER site. The ecology of agricultural landscapes: Long-term research on the path to sustainability, 1, 32. https://books.google.com/books?id=WPBxBgAAQBAJ&lpg=PA1&ots=46caeyWX8D&dq=importance%20of%20long%20term%20research%20lter&lr&pg=PA1#v=onepage&q=importance%20of%20long%20term%20research%20lter&f=false
+
+
 
 
 
