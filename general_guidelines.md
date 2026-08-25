@@ -48,7 +48,7 @@ We are a group of smart people with unusually active brains. We do better when w
 
 Flexibility and prioritization matter. Sooner or later everyone needs patience, understanding, quick feedback, flexibility, or a favor from colleagues. _**Do not spend that goodwill on things that don't genuinely need it.**_ It's also worth remembering that not every problem is your problem. Some issues belong to other people. Some require expertise you don't yet have. Some are real problems, just not the **most important** ones right now. Recognizing a problem does not automatically create an obligation to solve it. Not every problem needs a solution. Not every solution needs a project. Not every project needs to start today. And not every irritation deserves to become a crusade. _Christie, did you hear that? Put the pitchfork down._
 
-## Authorship and Credit
+## Authorship and credit
 
 I view authorship as recognition of intellectual labor and contribution and we generally use it as a productivity metric in the broader academic sphere, so it's important for your career trajectory (because capitalism). 
 
